@@ -6,7 +6,7 @@
 
 ## 🔎️ Description
 
-A simple JavaScript project to check the basics of testing in JavaScript.
+A very simple JavaScript project to check the basics of testing in JavaScript.
 
 ## 🚀️ Technologies
 
